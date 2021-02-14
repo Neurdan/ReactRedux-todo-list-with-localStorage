@@ -1,0 +1,26 @@
+.container {
+    margin: 0 auto 75px;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputText {
+    width: 70%;
+    height: 40px;
+    resize: none;
+    margin-right: 25px;
+    border-radius: 5px;
+    line-height: 25px;
+    padding: 5px;
+}
+
+.btn {
+    border: 1px solid black;
+    width: 30%;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #82baf6;
+}
